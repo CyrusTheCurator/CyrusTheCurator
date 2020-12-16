@@ -13,7 +13,7 @@
 const zoe = {
   pronouns: 'she' | 'her',
   code: [Javascript, Python, HTML, CSS],
-  tools: [React, Redux, Less, Node, Express, Supertest, PostgreSQL, ...Others],
+  tools: [React, Redux, Less, Node, Express, Jest, Supertest, PostgreSQL, ...Others],
 };
 ```
 
